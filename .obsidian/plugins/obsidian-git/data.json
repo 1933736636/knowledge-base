@@ -1,0 +1,11 @@
+{
+  "autoCommitMessage": "auto: {{date}} {{time}}",
+  "autoCommitInterval": 60,
+  "autoBackup": true,
+  "autoBackupMessage": "auto backup: {{date}} {{time}}",
+  "autoPull": true,
+  "autoPullInterval": 60,
+  "showStatusBar": true,
+  "submodules": false,
+  "gitPath": "git"
+}
